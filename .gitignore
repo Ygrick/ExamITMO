@@ -3,6 +3,12 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Parquet files
+*.parquet
+
+README.md
+PLAN.md
+
 # C extensions
 *.so
 
