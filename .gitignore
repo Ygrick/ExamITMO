@@ -6,7 +6,7 @@ __pycache__/
 # Parquet files
 *.parquet
 
-README.md
+Task.md
 PLAN.md
 
 # C extensions
